@@ -1,1 +1,1 @@
-# senai-atividades-portugol
+# senai-atividades-portugol-estrutura-para
